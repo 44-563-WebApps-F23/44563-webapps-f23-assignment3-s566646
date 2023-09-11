@@ -2,4 +2,4 @@
 # WebApps-F23-Assignment-3
 Assignment 3 - Basic HTML
 Srilatha Yadala
-My Pages Hosted at ![Hosted at](https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment3-s566646/)
+My Pages Hosted at:[Hosted at](https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment3-s566646/)
